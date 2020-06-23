@@ -14,8 +14,8 @@
 ## Train Soo many Images
   - 7 different person images
 
-## Input Images
-<img src="test.jpg" title="working" alt="working" width="500" height="600">
+## Train Images
+<img src="faces/Ranjit.jpg" title="working" alt="working" width="500" height="600">
 
 ## Output
 
